@@ -1,0 +1,9 @@
+if you want to add adminpanel ,then copy all file and paste where  all php file present.
+
+admin navbar
+
+email:admin@gmail.com
+password:admin
+
+
+in database "file" table for datafile with category
